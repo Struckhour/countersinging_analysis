@@ -1,0 +1,17 @@
+
+Luke's Master's Wishlist
+
+measure and compare song switch rate for solo versus countersinging and near vs far
+measure song overlap based on moment-to-moment distance rather than median distance between birds
+statistical comparison of results based on acoustic frame of reference
+analyzing or estimating song output on the unanalyzed recordings to remove bias from song output disparity
+time series analyses / regression between distance and consistency, overlap, and freq matching.
+time series analyses / regression between birds for consistency, overlap, and freq matching.
+analysis of birds across the various countersinging measures (ie did birds tend to be significant in multiple ways?)
+null markov models for syntax to measure conventional matching
+chi-square tests for pivot tables of conventionl matching between near and far.
+chi-square tests for pivot tables of individual syntax between near and far.
+
+
+clean up and republish HethFinder to include song-type template usage
+clean up and republish HethFinder to make it more user-friendly
